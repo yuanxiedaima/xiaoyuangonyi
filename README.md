@@ -15,9 +15,11 @@
 
 #### 功能模块
 ##### 1. 后台管理端功能模块，如图所示，主要使用vue+springboot来做。
-![输入图片说明](x1.png)
+![image](https://user-images.githubusercontent.com/48129181/200118783-16986917-5623-40f4-a1f4-8af673419ebb.png)
+
 ##### 2.客户端功能模块，如图所示，这是手机客户端，主要使用Android studio来做，开发语言是java。
-![输入图片说明](x2.png)
+![image](https://user-images.githubusercontent.com/48129181/200118795-6a960f6a-3c54-4301-86f9-ff6793ade4ef.png)
+
 
 #### 部分图片
 
@@ -32,10 +34,11 @@
 
 ##### 手机端
 
-![输入图片说明](phone1.png)
+![image](https://user-images.githubusercontent.com/48129181/200118837-c2103f6b-ee7d-446f-b542-ec3be2333e32.png)
 
-![输入图片说明](phone2.png)
+![image](https://user-images.githubusercontent.com/48129181/200118852-29fe3e57-c7c5-47f3-aebe-aaea107c4ad2.png)
 
-![输入图片说明](phone4.png)
+![image](https://user-images.githubusercontent.com/48129181/200118825-cc959692-6d7c-4d7a-944d-3330d748661d.png)
 
-![输入图片说明](phone5.png)
+![image](https://user-images.githubusercontent.com/48129181/200118861-13e2143b-d63d-44b2-857b-8a0a7372a2cd.png)
+
